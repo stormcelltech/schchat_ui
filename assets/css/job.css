@@ -1,0 +1,136 @@
+body {
+    background-color: #e9e9ec
+}
+
+.feat {
+    background-color: #2e2e2e!important;
+    color: #fff;
+    display: flex;
+    padding: 10px
+}
+
+.nou {
+    font-weight: 700;
+    margin: auto
+}
+
+.feet {
+    background-color: #2e2e2e!important;
+    color: #fff;
+    display: flex;
+    padding: 10px;
+    justify-content: center
+}
+
+.tou {
+    align-items: center;
+    font-weight: 700;
+    margin: auto
+}
+
+.tert a {
+    font-weight: 700;
+    text-decoration: none;
+    color: #000
+}
+
+.tert a:hover {
+    color: #99a
+}
+
+.see {
+    display: flex;
+    justify-content: stretch
+}
+
+.fa-heart {
+    color: green;
+    font-size: 20px
+}
+
+.hour strong {
+    color:
+}
+
+.custom-shadow {
+    box-shadow: 4px 2px 10px rgba(0, 0, 0, .505)
+}
+
+.cope a {
+    display: flex;
+    justify-content: center;
+    color: #000;
+    text-decoration: none
+}
+
+.cope a:hover {
+    color: #99a
+}
+
+.job-details {
+    background-color: #000;
+    color: #fff;
+    box-shadow: 0 0 4px rgba(0, 0, 0, .26)
+}
+
+.job-custom-shadow {
+    box-shadow: 0 0 10px rgba(0, 0, 0, .247)
+}
+
+.briefcase {
+    font-size: 40px
+}
+
+.circle-icon {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%
+}
+
+.alignment {
+    text-align: justify
+}
+
+.custom-button {
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    color: #000;
+    text-decoration: none
+}
+
+.heading_1 {
+    background-color: #000
+}
+
+.custom-textarea {
+    border: 1px solid #f9a725;
+    background-color: #f0eeec!important
+}
+
+.custom-textarea:focus {
+    box-shadow: none
+}
+
+.custom-button {
+    border: none!important;
+    background-color: #f9a725!important;
+    outline: none!important
+}
+
+.custom-button:focus {
+    background-color: #000!important;
+    border: none!important;
+    border-color: transparent!important;
+    box-shadow: none!important
+}
+
+th {
+    text-align: center!important;
+    font-size: 13px!important
+}
+
+td {
+    text-align: center!important;
+    font-size: 13px!important
+}
